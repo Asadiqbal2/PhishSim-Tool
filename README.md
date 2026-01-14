@@ -39,8 +39,8 @@ This tool provides a simple web interface, real-time delivery statistics, and su
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/email-sending-dashboard.git
-cd email-sending-dashboard
+git clone https://github.com/Asadiqbal2/PhishSim-Tool.git
+cd PhishSim-Tool
 
 ````
 
