@@ -1,7 +1,7 @@
 # EasyPhish-Tool
 
 A lightweight Flask-based email sending dashboard that allows controlled bulk email delivery using SMTP.  
-This tool provides a simple web interface, real-time delivery statistics, and supports both authenticated and non-authenticated SMTP servers.
+This tool provides a simple web GUI, real-time delivery statistics, and supports both authenticated and non-authenticated SMTP servers.
 
 > ⚠️ **Important:** This project is intended for **authorized testing, internal notifications, and security research only**.  
 > Do **not** use this tool for spam, phishing, or any unauthorized activity.
