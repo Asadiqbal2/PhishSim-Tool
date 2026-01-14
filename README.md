@@ -1,4 +1,4 @@
-# PhishSim-Tool
+# EasyPhish-Tool
 
 A lightweight Flask-based email sending dashboard that allows controlled bulk email delivery using SMTP.  
 This tool provides a simple web interface, real-time delivery statistics, and supports both authenticated and non-authenticated SMTP servers.
@@ -39,8 +39,8 @@ This tool provides a simple web interface, real-time delivery statistics, and su
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Asadiqbal2/PhishSim-Tool.git
-cd PhishSim-Tool
+git clone https://github.com/Asadiqbal2/EasyPhish-Tool.git
+cd EasyPhish-Tool
 
 ````
 
@@ -50,7 +50,7 @@ pip install flask
 ````
 ### 3. Run the Application
 ```bash
-python PhishSim-Tool.py
+python EasyPhish-Tool.py
 ````
 ### 4. Access the Web Interface
 Open your browser and navigate to:
